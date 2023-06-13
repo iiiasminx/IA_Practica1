@@ -12,6 +12,7 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "strEstado&Sequence_6",
         "PasswordId&Sequence_2"
       ],
       "ArgumentsSectionElementsOrder": [],
